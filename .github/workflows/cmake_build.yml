@@ -33,4 +33,4 @@ jobs:
         automatic_release_tag: "latest"
         prerelease: true
         title: "D3D12Wrapper"
-        files: "build/bin/Release"
+        files: "bin/Release"
